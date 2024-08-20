@@ -1,7 +1,7 @@
 /* xs */
 @media all and (max-width:575px) {
     :root {
-        font-size: 12px !important;
+        font-size: 9px !important;
     }
 
     #home {
