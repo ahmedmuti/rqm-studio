@@ -53,12 +53,12 @@
 /* start global fonts */
 @font-face {
   font-family: qatar-font-bold;
-  src: url(../Qatar-2022-Arabic-Font-Family/Qatar2022Arabic\ Bold\ -\ [UrduFonts.com].ttf);
+  src: url(../Arabic-Font-Family/ArabicBold.ttf);
 }
 
 @font-face {
   font-family: qatar-font-book;
-  src: url(../Qatar-2022-Arabic-Font-Family/Qatar2022Arabic\ Book\ -\ [UrduFonts.com].ttf);
+  src: url(../Arabic-Font-Family/ArabicBook.ttf);
 }
 
 /* end global fonts */
