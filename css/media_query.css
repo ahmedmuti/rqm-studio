@@ -5,10 +5,11 @@
     }
 
     #home {
-        background-image: url(../images/background-md.svg);
-        height: 100vh;
-        background-position: 47% -15%;
-        background-size: 130%;
+        /* background-image: url(../images/background-md.svg); */
+        /* height: 100vh; */
+        /* height: 100vh; */
+        background-position: 50% 300%;
+        background-size: 298%;
         text-align: center;
     }
 
